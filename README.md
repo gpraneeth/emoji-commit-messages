@@ -1,5 +1,5 @@
 # Emoji commit messages
-
+Added line in master 
 My variant of the ever-popular emoji commit messages.
 
 ## Motivation
