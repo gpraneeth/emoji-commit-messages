@@ -1,5 +1,6 @@
 # Emoji commit messages
-Added one line
+Added one line,modified the line
+Added line 2
 My variant of the ever-popular emoji commit messages.
 
 ## Motivation
