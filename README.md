@@ -1,8 +1,10 @@
 # Emoji commit messages
-Added line in master 
+Added line in master
+Added lin2 in master 
 My variant of the ever-popular emoji commit messages.
 
 ## Motivation
+Start
 
 Images (including emoji) help clarify what a given commit accomplishes,
 make your commit history easier to scan though, and encourage you
